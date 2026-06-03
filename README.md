@@ -12,4 +12,4 @@ Főbb funkciók:
 
 Az alkalmazás kinézete az alábbi kéépen látható:
 
-![App ablak](Image.png)
+![App ablak](image.png)
